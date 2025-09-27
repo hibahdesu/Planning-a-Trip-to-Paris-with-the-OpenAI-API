@@ -20,12 +20,8 @@ Install dependencies with:
 ```bash
 pip install openai
 
-
-
 ---
 
-### 4. Setup & Running
-```markdown
 ## 🚀 Setup & Running
 
 1. Clone the repository:
@@ -39,12 +35,10 @@ setx OPENAI_API_KEY "your_api_key_here"     # Windows
 
 
 python chatbot.py
-
-
 ---
 
 ### 5. Example Output
-```markdown
+
 ## 💬 Example Conversation
 
 **User:** How far away is the Louvre from the Eiffel Tower (in miles) if you are driving?  
