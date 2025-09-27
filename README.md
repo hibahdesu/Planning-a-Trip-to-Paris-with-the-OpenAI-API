@@ -76,15 +76,3 @@ python chatbot.py
 ```
 
 ---
-
-## 🔮 Future Improvements
-
-* Make responses dynamic (instead of pre-filled) using live API calls.
-* Add more Paris tourist Q&A.
-* Create a simple web or CLI interface for interaction.
-* Expand to other cities as a general travel assistant.
-
----
-
-```
-```
